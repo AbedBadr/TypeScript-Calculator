@@ -1,2 +1,2 @@
 # TypeScript-VATCalculator
-VATCalculator typescript test
+TypeScript Calculator test
